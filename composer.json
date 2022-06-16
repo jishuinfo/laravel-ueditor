@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4":{
-            "Overtrue\\LaravelUEditor\\":"src/"
+            "Jishuinfo\\LaravelUEditor\\":"src/"
         }
     },
     "suggest": {
