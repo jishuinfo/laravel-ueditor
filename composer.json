@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\LaravelUEditor\\UEditorServiceProvider"
+                "Jishuinfo\\LaravelUEditor\\UEditorServiceProvider"
             ]
         }
     }
